@@ -1,0 +1,36 @@
+.services_bg {
+  background-image:url(http://milk16.ru/wp-content/themes/template12/img/bg1.jpg);
+  -webkit-filter: blur(0px);
+  -moz-filter: blur(0px);
+  -o-filter: blur(0px);
+  -ms-filter: blur(0px);
+  filter: blur(0px);
+}
+
+.services_bg:after {
+  background:url(img/relief.png);
+}
+/*
+.services_bg:before {
+  background:rgba(50,50,50,0.8);
+}
+*/
+
+/* -------------------------- */
+
+.basic_services_bg {
+  background-image:url(http://milk16.ru/wp-content/themes/template12/img/bg2.jpg);
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+}
+/*
+.basic_services_bg:after {
+  background:url(img/relief.png);
+}
+*/
+.basic_services_bg:before {
+  background:rgba(255,255,255,0.9);
+}
